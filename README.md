@@ -1,4 +1,4 @@
-# file-tool
+# mkfile for windows OS
 
 This is command line utility to create files in windows OS.
 
