@@ -19,6 +19,3 @@ ARG: filename (you can add multiple filename. ex. filename1, filename2,...etc..)
 4. Run ```go install``` to create executable program
 5. Locate executable program at path ```$GOPATH\bin```. 
 6. Open cmd $GOPATH\bin and execute mkfile command. 
-
-
-Fork to contribute this utility
