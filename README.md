@@ -1,6 +1,6 @@
 # mkfile for windows OS
 
-This is command line utility to create files in windows OS.
+Command line utility to create files in windows OS.
 
 ```
 Usage: 
